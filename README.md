@@ -15,7 +15,7 @@ In this project i have created a Hosting Landing Page. And i have learnt a lot o
 
 ### My Project is looking like :
 
-![Web Site Image](./screenshot/hosting-landing-page-new.png)
+![Web Site Image](./screenshot/hosting-landing-page.png)
 
 ## Time taken to finish this project
 
